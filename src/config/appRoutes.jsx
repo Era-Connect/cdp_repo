@@ -12,7 +12,7 @@ import Reports from "../pages/Reports";
 
 const AppRoutes = () => {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/cdp_repo">
             <Routes>
                 <Route element={<DashLayout />}>
                     <Route index element={<Dashboard />} />
