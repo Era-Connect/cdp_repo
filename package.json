@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Era-Connect.github.io/cdp_repo.git/",
+ "homepage": "https://Era-Connect.github.io/cdp_repo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
